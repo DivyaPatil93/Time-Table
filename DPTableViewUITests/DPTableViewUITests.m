@@ -2,7 +2,7 @@
 //  DPTableViewUITests.m
 //  DPTableViewUITests
 //
-//  Created by Namrata on 21/09/16.
+//  Created by Divya on 21/09/16.
 //  Copyright © 2016 Divya Patil. All rights reserved.
 //
 
